@@ -1,0 +1,10 @@
+Meryl
+Your Python OOP skills are commendably showcased in this project! The code is highly functional, well-structured, clean, and easy to follow. 
+It's great that you used a database for login and password handling. 
+The game functions nicely and I appreciate the error messages printed when the input is not as expected. 
+My suggestion would be to incorporate more modules (e.g., Pygame), and use an API for sourcing words. 
+Add a README file with instructions on how to run the program, and a requirements.txt detailing the necessary modules.
+Python OOP: 10/10
+Databases: 8/10
+API/JSON: 0/10
+General score: 8
